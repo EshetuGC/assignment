@@ -7,6 +7,9 @@ public class threadexam1 {
 			System.out.println("My thread started");
 			System.out.println("thread is one part of process");
 			System.out.println("Jesus will never let me down");
+			System.out.println("My thread started");
+			System.out.println("thread is one part of process");
+			System.out.println("Jesus will never let me down");
 		}
 		public static void main(String args[]) {
 			mythread t1=new mythread();
